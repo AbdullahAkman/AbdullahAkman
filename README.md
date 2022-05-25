@@ -1,5 +1,3 @@
-![snake gif](https://github.com/AbdullahAkman/AbdullahAkman/blob/output/github-contribution-grid-snake.gif)
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AbdullahAkman/AbdullahAkman/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/AbdullahAkman/AbdullahAkman/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
