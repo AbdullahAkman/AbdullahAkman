@@ -1,8 +1,8 @@
 ![snake gif](https://github.com/AbdullahAkman/AbdullahAkman/blob/output/github-contribution-grid-snake.gif)
 <h1 align="center">Hi, 🌼 I'm Abdullah Akman</h1>
 
-<h3 align="center">Software Tester Engineer</h3>
-<h3 align="center">Software Test Engineer</h3>
+<h3 align="center">SDET and Full Stack Automation Tester</h3>
+
 
 <ul>
   <li>
